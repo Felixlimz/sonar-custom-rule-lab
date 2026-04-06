@@ -1,0 +1,19 @@
+LAB 1 - SONAR CUSTOM RULE (DOCUMENTATION ENFORCEMENT)
+
+STEP 1:
+Run sonar-scanner
+
+STEP 2:
+Aktifkan rule 'Undocumented API' di SonarQube
+
+STEP 3:
+Run ulang scan
+
+STEP 4:
+Tambahkan JavaDoc comment
+
+STEP 5:
+Run ulang scan
+
+EXPECTED:
+Issue hilang
