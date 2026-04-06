@@ -1,5 +1,6 @@
 #!/bin/bash
-echo "Running custom scan..."
+echo "Running custom scan... in"
+echo pwd
 OUTPUT=custom-issues.json
 echo "[" > $OUTPUT
 FIRST=true
